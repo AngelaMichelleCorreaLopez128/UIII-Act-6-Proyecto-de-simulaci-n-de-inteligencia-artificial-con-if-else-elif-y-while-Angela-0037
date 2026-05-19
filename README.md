@@ -1,1 +1,1 @@
-# UIII-Act-6-Proyecto-de-simulaci-n-de-inteligencia-artificial-con-if-else-elif-y-while-Angela-0037
+# UIII-Act-6-Proyecto-de-simulaci-n-Angela-Correa-0037
